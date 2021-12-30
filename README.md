@@ -1,0 +1,1 @@
+This project is mainly focusing on basic git and html skills
